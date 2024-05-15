@@ -1,7 +1,7 @@
 ## Olá! Eu sou Charlie 🖖
 - Bacharelado em Sistemas de Informação @ PUCPR
 - Pós Graduando em Arquitetura de Software e Cybersegurança @ PUCPR
-- Sênior Backend Developer @ Paraná Banco
+- Especialista .NET Developer @ BS2
 - Main Stack: C# / .NET
   <br />
   <br />
