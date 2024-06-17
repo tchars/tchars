@@ -1,7 +1,7 @@
 ## Olá! Eu sou Charlie 🖖
 - Bacharelado em Sistemas de Informação @ PUCPR
 - Pós Graduando em Arquitetura de Software e Cybersegurança @ PUCPR
-- Main Stack: C# / .NET / JavaScript / NodeJS
+- Main Stack: C# / .NET / JavaScript / TypeScript / NodeJS
   <br />
   <br />
 [![Perfil no LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchars/)
